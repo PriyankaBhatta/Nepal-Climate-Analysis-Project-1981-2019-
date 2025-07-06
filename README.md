@@ -47,5 +47,8 @@ The analysis spans multiple steps including:
 
 This project was undertaken as part of my daily data analytics learning streak to build practical skills in big data, data analysis, and visualization while exploring Nepal's real climate data.
 
+## 🐦 Follow Daily Updates
+
+For my daily learning progress and insights from this project, follow me on Twitter: [@YourTwitterHandle](https://x.com/itspriibhatta)
 
 
