@@ -38,10 +38,10 @@ The analysis spans multiple steps including:
 - Explored wind speed distributions with histograms and frequency observations.
 - Generated heatmaps for correlation analysis among numerical variables.
 
-## 🚀 Future Plans
+## 📊 Outcomes
 
-- Time series modeling for temperature prediction.
-- Machine learning models to analyse climate patterns.
+- Successfully implemented linear regression to predict precipitation in the Nepal Daily Climate dataset, achieving insights from feature coefficients.
+- Performed visualization of actual vs. predicted precipitation and conducted detailed analysis of the results.
 
 ## 📌 Motivation
 
