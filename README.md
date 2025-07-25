@@ -9,7 +9,6 @@ The analysis spans multiple steps including:
 - **Big Data Handling with PySpark:** Initial exploration and attempted processing of the large dataset using PySpark with HDFS setup.
 - **Data Analysis with Pandas:** Shifted to Jupyter Notebook for detailed data wrangling and visualizations using pandas, matplotlib, and seaborn.
 - **Visualization:** Generated insightful plots to observe temperature trends over years, district-wise temperature averages from 1990 onwards, and wind speed distributions.
-- **Future Scope:** Building predictive models to forecast climate parameters using this dataset.
 
 ## 📂 Dataset
 
